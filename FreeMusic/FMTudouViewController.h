@@ -12,5 +12,6 @@
 @interface FMTudouViewController : FMBaseViewController<UITableViewDelegate,UITableViewDataSource,DropDownChooseDelegate,DropDownChooseDataSource>
 {
     UITableView * _tableView;
+    NSString *str;
 }
 @end

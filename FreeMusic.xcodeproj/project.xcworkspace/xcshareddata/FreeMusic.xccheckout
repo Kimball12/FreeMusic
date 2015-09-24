@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E5ED2D0E-2C5F-41D5-8FA4-ABD8BA8ACEA6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FreeMusic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B1B5BEC86C6E4E307D16A5AE2BC1A1415B409C3</key>
+		<string>https://github.com/Kimball12/FreeMusic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FreeMusic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B1B5BEC86C6E4E307D16A5AE2BC1A1415B409C3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kimball12/FreeMusic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B1B5BEC86C6E4E307D16A5AE2BC1A1415B409C3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B1B5BEC86C6E4E307D16A5AE2BC1A1415B409C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FreeMusic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
